@@ -1,18 +1,18 @@
-{>"$PROJ/templates/main.dust" page_title="役職一覧" /}
+{>"$PROJ/templates/main.dust" page_title="职业一览" /}
 {<content}
   <article>
-    <h1>役職一覧</h1>
-    <p>役職の詳細は各役職のページを参照してください。</p>
+    <h1>职业一览</h1>
+    <p>各职业的详情请查看各职业自身 的页面。</p>
     <div class="jobs-table-wrapper">
       <table class="pc-table jobs-table">
         <thead>
           <tr>
-            <th>役職名</th>
-            <th>陣営</th>
-            <th>系統</th>
-            <th>占い結果</th>
-            <th>霊能結果</th>
-            <th>出典</th>
+            <th>职业名</th>
+            <th>阵营</th>
+            <th>系统</th>
+            <th>占卜结果</th>
+            <th>灵能结果</th>
+            <th>出处</th>
           </tr>
         </thead>
         <tbody>
@@ -20,8 +20,8 @@
             <tr>
               <td>[[{value.name}]]</td>
               <td>[[{value.team}]]</td>
-              <td>{@eq key=value.type value="なし"}
-                なし
+              <td>{@eq key=value.type value="无"}
+                无
                 {:else}
                 [[{value.type}]]
               {/eq}</td>

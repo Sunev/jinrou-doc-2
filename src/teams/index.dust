@@ -1,9 +1,9 @@
-{>"$PROJ/templates/main.dust" page_title="陣営一覧" /}
+{>"$PROJ/templates/main.dust" page_title="阵营一览" /}
 {<content}
   <article>
-    <h1>陣営一覧</h1>
-    <p>陣営の詳細は各役職のページを参照してください。</p>
-    <p>各陣営の勝利条件については[[勝利判定]]を参照してください。</p>
+    <h1>阵营一览</h1>
+    <p>阵营の詳細は各职业のページを参照してください。</p>
+    <p>各阵营的胜利条件については[[胜利判定]]を参照してください。</p>
     <ul>
       {@keys obj=jobs.teams}
         <li>[[{value}]]</li>

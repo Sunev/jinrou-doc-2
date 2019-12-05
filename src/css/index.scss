@@ -255,12 +255,12 @@ div.jobinfo table {
 }
 /* ログ */
 p.log.skill::after {
-  content: '（赤いログで表示）';
+  content: '（显示为红色）';
   font-size: small;
   color: #ff3333;
 }
 p.log.system::after {
-  content: '（灰色のシステムログで全員に表示）';
+  content: '（向全员显示为灰色）';
   font-size: small;
   color: #999999;
 }

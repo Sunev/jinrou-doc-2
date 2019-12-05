@@ -2,10 +2,10 @@
 {<content}
   <article>
     <h1>{team}</h1>
-    <p class="bcl">[[陣営一覧]] &gt; {team}</p>
+    <p class="bcl">[[阵营一览]] &gt; {team}</p>
     {+team_content/}
     <section>
-      <h2>所属する役職の一覧</h2>
+      <h2>此阵营的职业一览</h2>
       <ul>
         {@keys obj=jobs.jobs}
           {@eq key=team value=value.team}

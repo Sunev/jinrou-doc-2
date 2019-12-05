@@ -1,9 +1,9 @@
-{>"$PROJ/templates/main.dust" page_title="系統一覧" /}
+{>"$PROJ/templates/main.dust" page_title="系统一览" /}
 {<content}
   <article>
-    <h1>系統一覧</h1>
-    <p>系統の詳細は各系統のページを参照してください。</p>
-    <p>系統による分類は[[一部闇鍋|闇鍋]]で使用されます。</p>
+    <h1>系统一览</h1>
+    <p>有关系统的详细情况请查看各系统的页面。</p>
+    <p>通过系统进行的职业类别划分主要在[[手调黑暗火锅|黑暗火锅]]中使用。</p>
     <ul>
       {@keys obj=jobs.categories}
         <li>[[{value}]]</li>

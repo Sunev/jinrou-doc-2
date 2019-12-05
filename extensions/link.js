@@ -45,18 +45,18 @@ module.exports = context=>{
             // ページ名とURLの対応を作る
             datacache = data;
             pageTable = Object.assign({
-                "身代わりくん":"/scapegoat.html",
-                "死因一覧":"/found.html",
-                "設定":"/options.html",
-                "蘇生":"/revive.html",
-                "勝利判定":"/judge.html",
-                "闇鍋":"/yaminabe.html",
-                "ケミカル人狼":"/chemical.html",
-                "即時発動型能力":"/immediateSkills.html",
-                "役職一覧":"/jobs/index.html",
-                "陣営一覧":"/teams/index.html",
-                "系統一覧":"/categories/index.html",
-                "サブ役職一覧":"/subs/index.html",
+                "替身君":"/scapegoat.html",
+                "死因一览":"/found.html",
+                "设定":"/options.html",
+                "复活":"/revive.html",
+                "胜利判定":"/judge.html",
+                "黑暗火锅":"/yaminabe.html",
+                "炼成人狼":"/chemical.html",
+                "即时生效型能力":"/immediateSkills.html",
+                "职业一览":"/jobs/index.html",
+                "阵营一览":"/teams/index.html",
+                "系统一览":"/categories/index.html",
+                "副职业一览":"/subs/index.html",
             }, data.urlTable);
             const jobs = data.jobs;
             const js = jobs.jobs;
@@ -82,7 +82,7 @@ module.exports = context=>{
                 name = to;
             }
             if(pageTable[to] == null){
-                console.warn(`${str} is not found!!`); 
+                console.warn(`${str} is not found!!`);
                 return str;
             }
             // html escape???

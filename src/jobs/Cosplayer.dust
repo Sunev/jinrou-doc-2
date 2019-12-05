@@ -1,33 +1,33 @@
 {>"$PROJ/templates/job.dust"/}
 {<job_content}
-  <p>[[狩人]]と同様の役職ですが、占い・霊能結果が「人狼」です。</p>
+  <p>是与[[猎人]]相同的职业，但是占卜・灵能的结果均为「人狼」。</p>
 
   <section>
-    <h2>勝利条件</h2>
-    <p>[[村人陣営]]の勝利。</p>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
   </section>
   <section>
-    <h2>ログ</h2>
+    <h2>系统消息</h2>
     <dl class="logs">
-      <dt>護衛対象選択時</dt>
+      <dt>选择护卫对象时</dt>
       <dd>
-        <p class="log skill">○○は○○を護衛しました。</p>
+        <p class="log skill">○○ 守护了 ○○。</p>
       </dd>
-      <dt>護衛成功時（設定で有効なときのみ）</dt>
+      <dt>护卫成功时（仅在设定中设为有效时显示）</dt>
       <dd>
-        <p class="log skill">○○が○○の護衛に成功しました。</p>
+        <p class="log skill">○○ 成功守护了 ○○。</p>
       </dd>
     </dl>
   </section>
   <section>
-    <h2>関連項目</h2>
+    <h2>关联项目</h2>
     <ul>
-      <li>[[狩人]]</li>
-      <li>[[狼憑き]]</li>
+      <li>[[猎人]]</li>
+      <li>[[狼凭]]</li>
     </ul>
   </section>
   <section>
-    <h2>出典</h2>
+    <h2>出处</h2>
     <p>牢獄の悪夢</p>
   </section>
 {/job_content}

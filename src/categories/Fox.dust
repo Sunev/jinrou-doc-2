@@ -1,7 +1,7 @@
 {>"$PROJ/templates/category.dust"/}
 {<category_content}
-  <p>[[妖狐陣営]]に属する系統です。</p>
-  <p>[[勝利判定]]では狐カウントになります。</p>
+  <p>隶属于[[妖狐阵营]]的系统。</p>
+  <p>在[[胜利判定]]中被记为狐。</p>
 {/category_content}
 
 

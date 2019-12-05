@@ -1,11 +1,11 @@
 {>"$PROJ/templates/job.dust"/}
 {<job_content}
-  <p>[[人狼系]]の役職です。</p>
-  <p>占い結果・霊能結果が普通と異なる以外は[[人狼]]と同じです。
+  <p>[[人狼系]]的职业。</p>
+  <p>除了占卜结果・灵能结果有所特殊以外均与[[人狼]]相同。
   {>"$PROJ/templates/common/Werewolf.dust"/}
   <section>
-    <h2>勝利条件</h2>
-    <p>[[人狼陣営]]の勝利。</p>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
   </section>
 {/job_content}
 

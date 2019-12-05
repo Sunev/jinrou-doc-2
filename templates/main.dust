@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ja">
+<html lang="zh-cn">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -20,40 +20,40 @@
       <nav class="page-nav">
         <ul>
           <li>
-            <a href="/jobs/index.html">役職一覧</a>
+            <a href="/jobs/index.html">职业一览</a>
           </li>
           <li>
-            <a href="/teams/index.html">陣営一覧</a>
+            <a href="/teams/index.html">阵营一览</a>
           </li>
           <li>
-            <a href="/categories/index.html">系統一覧</a>
+            <a href="/categories/index.html">系统一览</a>
           </li>
           <li>
-            <a href="/subs/index.html">サブ役職一覧</a>
+            <a href="/subs/index.html">副职业一览</a>
           </li>
           <li>
-            <a href="/found.html">死因一覧</a>
+            <a href="/found.html">死因一览</a>
           </li>
           <li>
-            <a href="/judge.html">勝利判定</a>
+            <a href="/judge.html">胜利判定</a>
           </li>
           <li>
-            <a href="/yaminabe.html">闇鍋</a>
+            <a href="/yaminabe.html">黑暗火锅</a>
           </li>
           <li>
-            <a href="/revive.html">蘇生</a>
+            <a href="/revive.html">复活</a>
           </li>
           <li>
-            <a href="/options.html">設定</a>
+            <a href="/options.html">设定</a>
           </li>
           <li>
-            <a href="/chemical.html">ケミカル人狼</a>
+            <a href="/chemical.html">炼成人狼</a>
           </li>
           <li>
-            <a href="/scapegoat.html">身代わりくん</a>
+            <a href="/scapegoat.html">替身君</a>
           </li>
           <li>
-            <a href="http://jinrou.uhyohyo.net/">月下人狼に戻る</a>
+            <a href="https://www.werewolf.com.cn/">回到月下人狼</a>
           </li>
         </ul>
       </nav>

@@ -2,7 +2,7 @@
 {<content}
   <article>
     <h1>{sub.name}</h1>
-    <p class="bcl">[[サブ役職一覧]] &gt; {sub.name}</p>
+    <p class="bcl">[[副职业一览]] &gt; {sub.name}</p>
     {+sub_content/}
   </article>
 {/content}

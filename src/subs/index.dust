@@ -1,9 +1,9 @@
-{>"$PROJ/templates/main.dust" page_title="サブ役職一覧" /}
+{>"$PROJ/templates/main.dust" page_title="副职业一览" /}
 {<content}
   <article>
-    <h1>サブ役職一覧</h1>
-    <p>サブ役職とは、[[恋人]]のように補助的に付加される役職のことです。</p>
-    <p>サブ役職により勝利条件が変更されることもあります。</p>
+    <h1>副职业一览</h1>
+    <p>副职业とは、[[恋人]]のように補助的に付加される职业のことです。</p>
+    <p>副职业により胜利条件が変更されることもあります。</p>
     <ul>
       {@keys obj=jobs.subs}
         <li>[[{value.name}]]</li>

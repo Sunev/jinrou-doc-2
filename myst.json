@@ -7,6 +7,6 @@
     "extension": ["./extensions/link.js", "./extensions/dust.js"],
     "target": ["src/css/index.scss", "src/**/*.dust"],
     "server": {
-        "port": 8080
+        "port": 8089
     }
 }

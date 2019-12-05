@@ -2,47 +2,47 @@
 {<content}
   <article>
     <h1>{job.name}</h1>
-    <p class="bcl">[[役職一覧]] &gt; {job.name}</p>
+    <p class="bcl">[[职业一览]] &gt; {job.name}</p>
     <div class="jobinfo">
       <table>
-        <caption>{job.name}の情報</caption>
+        <caption>{job.name}的信息</caption>
         <tr>
-          <th>陣営</th>
+          <th>阵营</th>
           <td>[[{job.team}]]</td>
         </tr>
         <tr>
-          <th>系統</th>
+          <th>系统</th>
           <td>
-          {@eq key=job.type value="なし"}
-            なし
+          {@eq key=job.type value="无"}
+            无
           {:else}
             [[{job.type}]]
           {/eq}
           </td>
         </tr>
         <tr>
-          <th>占い結果</th>
+          <th>占卜结果</th>
           <td>{job.fortune}</td>
         </tr>
         <tr>
-          <th>霊能結果</th>
+          <th>灵能结果</th>
           <td>{job.psychic}</td>
         </tr>
         <tr>
-          <th>終了判定カウント</th>
+          <th>在终了判定的计算</th>
           <td>{job.judge}</td>
         </tr>
         <tr>
-          <th>夜選択</th>
+          <th>夜间选择</th>
           <td>{@select key=job.select type="string"}
-            {@eq value="null"}なし{/eq}
-            {@eq value="undefined"}なし{/eq}
+            {@eq value="null"}无{/eq}
+            {@eq value="undefined"}无{/eq}
             {@none}{job.select}{/none}
           {/select}
           </td>
         </tr>
         <tr>
-          <th>出典</th>
+          <th>出处</th>
           <td>{@isin key=job.source obj=urlTable}
             <a href="{@get key=job.source obj=urlTable /}" target="_blank">{job.source}</a>
             {:else}

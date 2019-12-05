@@ -23,11 +23,11 @@
   </ul>
 
   <section>
-    <h2>勝利条件</h2>
-    <p>[[村人陣営]]の勝利。</p>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
   </section>
   <section>
-    <h2>ログ</h2>
+    <h2>系统消息</h2>
     <dl class="logs">
       <dt>恋人陣営が勝利目前</dt>
       <dd>
@@ -44,13 +44,13 @@
     </dl>
   </section>
   <section>
-    <h2>関連項目</h2>
+    <h2>关联项目</h2>
     <ul>
       <li>[[村人]]</li>
     </ul>
   </section>
   <section>
-    <h2>出典</h2>
+    <h2>出处</h2>
     <p>[[人狼式]]</p>
   </section>
 {/job_content}
