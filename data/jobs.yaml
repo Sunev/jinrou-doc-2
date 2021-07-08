@@ -1,23 +1,23 @@
 jobs:
   Human:
-      # 职业名
+      # 役職名
       name: "村人"
-      # 阵营名
+      # 陣営名
       team: "村人阵营"
-      # 系统名
+      # 系統名
       type: "村人系"
-      # 占卜结果
+      # 占い結果
       fortune: "村人"
-      # 人狼结果
+      # 人狼結果
       psychic: "村人"
-      # 胜利判定時のカウント
+      # 勝利判定時のカウント
       judge: "人"
-      # 夜间选择(null,"任意","强制")
+      # 夜選択(null,"任意","強制")
       select: null
-      # 袭击耐性
+      # 襲撃耐性
       wolfTolerance: false
       vampireTolerance: false
-      # 护卫能力
+      # 護衛能力
       wolfGuard: false
       vampireGuard: false
       source: "不明"
@@ -1223,7 +1223,7 @@ jobs:
       select: "强制"
       source: "原创"
 
-# 阵营の定義
+# 陣営の定義
 teams:
   Human: "村人阵营"
   Werewolf: "人狼阵营"
@@ -1236,8 +1236,8 @@ teams:
   Hooligan: "暴徒阵营"
   Others: "其他"
 
-# 系统の定義
-categories:
+# 系統の定義
+categories: 
   Human: "村人系"
   Madman: "狂人系"
   Werewolf: "人狼系"
@@ -1246,7 +1246,7 @@ categories:
   Switching: "职业变化系"
   Others: "第三阵营系"
 
-# 副职业の定義
+# サブ役職の定義
 subs:
   Friend:
     name: "恋人"

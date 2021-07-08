@@ -10,11 +10,11 @@ module.exports = context=>{
     context.addPostLoadDataHook(context=>{
         const data = context.data;
         const jobs = data.jobs.jobs;
-        // 人狼系に襲撃されても死亡しない役職の一覧
+        // 受人狼系袭击后不会死亡的职业一览
         const wolfToleranceJobs = [];
-        // ヴァンパイア耐性
+        // 吸血鬼耐性
         const vampireToleranceJobs = [];
-        // 護衛能力ある役職の一覧
+        // 持有护卫能力的职业一览
         const wolfGuardJobs = [];
         for (let key in jobs){
             const job = jobs[key];
@@ -82,7 +82,7 @@ module.exports = context=>{
                 name = to;
             }
             if(pageTable[to] == null){
-                console.warn(`${str} is not found!!`);
+                console.warn(`${str} is not found!!`); 
                 return str;
             }
             // html escape???
@@ -101,7 +101,7 @@ module.exports = context=>{
         let r;
         if (r = rltv.match(/^jobs\/(\w+)\.dust/)){
             const j = r[1];
-            // 役職ページだ
+            // 职业一览
             adds.job = jobs.jobs[j];
         }else if(r = rltv.match(/^teams\/(\w+)\.dust/)){
             const t = r[1];

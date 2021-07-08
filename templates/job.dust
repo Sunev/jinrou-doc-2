@@ -5,7 +5,7 @@
     <p class="bcl">[[职业一览]] &gt; {job.name}</p>
     <div class="jobinfo">
       <table>
-        <caption>{job.name}的信息</caption>
+        <caption>{job.name}的情报</caption>
         <tr>
           <th>阵营</th>
           <td>[[{job.team}]]</td>
