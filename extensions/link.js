@@ -82,7 +82,7 @@ module.exports = context=>{
                 name = to;
             }
             if(pageTable[to] == null){
-                console.warn(`${str} is not found!!`); 
+                console.warn(`${str} is not found!!`);
                 return str;
             }
             // html escape???

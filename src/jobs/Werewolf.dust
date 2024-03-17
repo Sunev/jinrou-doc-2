@@ -1,6 +1,6 @@
 {>"$PROJ/templates/job.dust"/}
 {<job_content}
-  <p>[[人狼系]]の基本职业です。</p>
+  <p>[[人狼系]]的基本职业。</p>
   {>"$PROJ/templates/common/Werewolf.dust"/}
 
   <section>

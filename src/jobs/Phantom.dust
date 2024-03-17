@@ -22,7 +22,7 @@
       </dd>
       <dt>早上发生职业变化时</dt>
       <dd>
-        <p class="log skill">○○ 变成了 ○○ （职业名）。</p>
+        <p class="log skill">○○ 变成了 （职业名）。</p>
       </dd>
       <dt>被盗的一方（次日进入夜间时）</dt>
       <dd>

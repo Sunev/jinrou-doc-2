@@ -15,7 +15,7 @@
     <dl class="logs">
       <dt>选择对象时</dt>
       <dd>
-        <p class="log skill">○○が○○を噛みました。</p>
+        <p class="log skill">○○ 咀嚼了 ○○。</p>
       </dd>
     </dl>
   </section>
