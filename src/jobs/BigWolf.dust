@@ -1,7 +1,7 @@
 {>"$PROJ/templates/job.dust"/}
 {<job_content}
   <p>[[人狼系]]的职业。</p>
-  <p>除了占卜结果・灵能结果有所特殊以外均与[[人狼]]相同。
+  <p>除了占卜结果・灵能结果有所特殊以外均与[[人狼]]相同。</p>
   {>"$PROJ/templates/common/Werewolf.dust"/}
   <section>
     <h2>胜利条件</h2>
