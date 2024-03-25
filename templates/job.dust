@@ -13,11 +13,7 @@
         <tr>
           <th>系统</th>
           <td>
-          {@eq key=job.type value="无"}
-            无
-          {:else}
-            [[{job.type}]]
-          {/eq}
+          {@eq key=job.type value="无"} 无 {:else} [[{job.type}]] {/eq}
           </td>
         </tr>
         <tr>
@@ -34,11 +30,7 @@
         </tr>
         <tr>
           <th>夜间选择</th>
-          <td>{@select key=job.select type="string"}
-            {@eq value="null"}无{/eq}
-            {@eq value="undefined"}无{/eq}
-            {@none}{job.select}{/none}
-          {/select}
+          <td>{@select key=job.select type="string"} {@eq value="null"}无{/eq} {@eq value="undefined"}无{/eq} {@none}{job.select}{/none} {/select}
           </td>
         </tr>
         <tr>

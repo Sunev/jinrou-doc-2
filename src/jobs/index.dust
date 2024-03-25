@@ -20,11 +20,7 @@
             <tr>
               <td>[[{value.name}]]</td>
               <td>[[{value.team}]]</td>
-              <td>{@eq key=value.type value="无"}
-                无
-                {:else}
-                [[{value.type}]]
-              {/eq}</td>
+              <td>{@eq key=value.type value="无"} 无 {:else} [[{value.type}]] {/eq}</td>
               <td>{value.fortune}</td>
               <td>{value.psychic}</td>
               <td>{@isin key=value.source obj=urlTable}
