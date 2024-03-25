@@ -53,6 +53,7 @@ module.exports = context=>{
                 "黑暗火锅":"/yaminabe.html",
                 "炼成人狼":"/chemical.html",
                 "即时生效型能力":"/immediateSkills.html",
+                "占卜能力":"/skills/divine.html",
                 "职业一览":"/jobs/index.html",
                 "阵营一览":"/teams/index.html",
                 "系统一览":"/categories/index.html",
