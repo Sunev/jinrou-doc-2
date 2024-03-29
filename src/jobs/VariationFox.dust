@@ -1,0 +1,32 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[妖狐系]]的职业。与妖狐之间能够进行夜间对话。</p>
+  <p>每天夜间能够决定当晚是否进行体质变异。</p>
+  <p>如果不选择，就像[[妖狐]]一样，不会因[[人狼系]]的攻击而死亡，如果成为[[占卜能力]]的对象，会被[[咒杀|死因一览]]。</p>
+  <p>如果选择变异，那天就不会被咒杀，变得会死于袭击。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[妖狐阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>进行变异时</dt>
+      <dd>
+        <p class="log skill">○○ 改变了自身的体质。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[妖狐]]</li>
+      <li>[[小狐]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼物語（三日月国）</p>
+  </section>
+{/job_content}

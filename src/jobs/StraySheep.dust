@@ -1,0 +1,31 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>在游戏中只限一次，能够在夜晚将所有的袭击对象更改为自己。</p>
+  <p>如果发动这个能力，即使具有攻击抵抗力，自己也必定会死亡。</p>
+  <p>此外，无论能力是否发动，受到的护卫都是无效的。</p>
+  <p>再者，[[圣职者]]・[[巫女]]・[[活祭品]]的能力也无效。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>使用能力时</dt>
+      <dd>
+        <p class="log skill">○○ 决意替他人死去了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[奇术师]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>Crimson Wolves～真紅の狼～ by Chrom.</p>
+  </section>
+{/job_content}

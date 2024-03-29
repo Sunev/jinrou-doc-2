@@ -1,0 +1,23 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[村人阵营]]的职业。</p>
+  <p>每天早上能够知道那个时候还活着的[[人狼系]]玩家的人数。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>野孩子能力的结果显示</dt>
+      <dd>
+        <p class="log skill">○○ 察觉到了 ○○ 名人狼的气息。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼物語（三日月国）</p>
+  </section>
+{/job_content}

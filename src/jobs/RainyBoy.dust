@@ -1,0 +1,35 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[狂人系]]的职业。</p>
+  <p>从第二天开始，可以使用一次降雨能力。如果发动降雨能力，第二天早上将被所有人知晓。</p>
+  <p>下雨的夜晚，所有的[[占卜能力]]都会受到干扰（受到与[[碍事的狂人]]相同的影响）。</p>
+  <p>例如，如果在第二天的夜晚降雨，将在第三天的早上被告知，第三天的夜晚的占卜将受到干扰。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>使用能力时</dt>
+      <dd>
+        <p class="log skill">○○ 决定明天会下雨。</p>
+      </dd>
+      <dt>使用能力的次日系统消息</dt>
+      <dd>
+        <p class="log system">今天下雨了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[碍事的狂人]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼ゲームオンライン</p>
+  </section>
+{/job_content}

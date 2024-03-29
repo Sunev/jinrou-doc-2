@@ -1,0 +1,27 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[人狼系]]的职业。</p>
+  <p>如果变成了占卜能力或者护卫能力的对象，将会把使用能力的人魅惑，使其染上[[月狂病]]。</p>
+  <p>月狼本身不会知道能力是否发动过。</p>
+
+  {>"$PROJ/templates/common/Werewolf.dust"/}
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      {+log_werewolf/}
+      <dt>染上[[月狂病]]时（被魅惑的一方将看到）</dt>
+      <dd>
+        <p class="log skill">○○ 被 ○○ 放出的月亮的气场魅惑了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼物語（深海国）</p>
+  </section>
+{/job_content}

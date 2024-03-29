@@ -1,0 +1,29 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[狂人系]]的职业。</p>
+  <p>每晚，可以选择一名生存者并对其进行魅惑。被魅惑的人在下一个夜晚之前，如果美女死亡，则会[[追随其自杀|死因一览]]。但是，如果美女是因为[[人狼系]]的袭击而死亡，那么追随自尽的情况就不会发生。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>使用能力时</dt>
+      <dd>
+        <p class="log skill">○○ 魅惑了 ○○。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[月下美人]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼はウソ月</p>
+  </section>
+{/job_content}
