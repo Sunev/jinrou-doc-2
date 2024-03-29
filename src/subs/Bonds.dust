@@ -1,0 +1,12 @@
+{>"$PROJ/templates/sub.dust"/}
+{<sub_content}
+  <p>由[[恶作剧妖精]]赋予的副职业。</p>
+  <p>虽然能力与所属阵营都不会变化，但是如果其中一方死亡，另一方就会追随自尽。</p>
+
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[恶作剧妖精]]</li>
+    </ul>
+  </section>
+{/sub_content}

@@ -1,0 +1,16 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[人狼系]]的职业。</p>
+  <p>能够看见灵界的对话。</p>
+
+  {>"$PROJ/templates/common/Werewolf.dust"/}
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>ねじれ天国</p>
+  </section>
+{/job_content}

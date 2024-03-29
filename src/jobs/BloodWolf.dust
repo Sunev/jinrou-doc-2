@@ -1,0 +1,37 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[人狼系]]的职业。</p>
+  <p>游戏中只限一次，可以在白天选择自爆。</p>
+  <p>自爆之后，白天的讨论将中断。</p>
+  <p>另外，当夜人狼系以外的参加者将不能使用能力。</p>
+  {>"$PROJ/templates/common/Werewolf.dust"/}
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>使用能力时</dt>
+      <dd>
+        <p class="log skill">○○ 以自身为祭品，引出了血月之力。</p>
+      </dd>
+      <dt>能力发动后夜晚到来时</dt>
+      <dd>
+        <p class="log skill">血月之力封印了村人们的能力。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[威吓的狼]]</li>
+      <li>[[烟火师]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼はウソ月</p>
+  </section>
+{/job_content}

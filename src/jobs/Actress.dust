@@ -1,0 +1,33 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>虽然是[[妖狐系]]的职业，但无法知道其他妖狐系是谁。同样，其他妖狐系也无法识别女狐。</p>
+  <p>当成为[[占卜能力]]的目标时，会被[[咒杀|死因一览]]。</p>
+  <p>即使被[[人狼系]]袭击也不会死亡，但如果被[[吸血鬼]]袭击则会死亡。</p>
+  <p>当女狐死亡时，会向所有人发送消息通知。</p>
+  <p>虽然属于[[妖狐阵营]]，但在[[人狼阵营]]胜利时也有可能获胜。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[妖狐阵营]]或者[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>死亡时</dt>
+      <dd>
+        <p class="log system">○○ 从舞台谢幕了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[妖狐]]</li>
+      <li>[[狂人]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>Crimson Wolves～真紅の狼～ by Chrom.</p>
+  </section>
+{/job_content}

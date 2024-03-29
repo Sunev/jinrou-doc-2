@@ -1,0 +1,35 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[赌徒]]的[[狂人]]版。
+  </p><p>每天白天可以选择是否参与赌博（如果没有选择，则视为当天没有参与赌博）。</p>
+  <p>没有参与赌博的时候，当天的投票数将视为0，并且会存下票即使没有参与赌博，也需要选择投票对象。</p>
+  <p>如果选择参与赌博，将使用存下的票来增加投票数。
+
+  <section>
+    </p><h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>当选择参与赌博时</dt>
+      <dd>
+        <p class="log skill">○○ 加入了赌博。</p>
+      </dd>
+      <dt>当选择不参与赌博时</dt>
+      <dd>
+        <p class="log skill">○○ 没有加入赌博。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[赌徒]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>ねじれ天国</p>
+  </section>
+{/job_content}

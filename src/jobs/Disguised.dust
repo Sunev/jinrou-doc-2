@@ -1,0 +1,20 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[村人系]]的职业。</p>
+  <p>没有特殊能力，但是对于[[人狼系]]与[[狂信者]]之类能够看到[[人狼系]]名单的职业而言，变装者的名字将混入[[人狼系]]的名单。此时，无法辨别谁是人狼，谁是变装者。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[潜伏者]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>月下人狼的原创职业。<a href="https://twitter.com/resource_t/status/1321781055708303361">リソース氏</a>提案的职业。</p>
+  </section>
+{/job_content}

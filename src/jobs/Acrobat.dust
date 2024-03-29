@@ -1,0 +1,25 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[狂人系]]的职业。只限一次可以使[[人狼系]]的袭击无效。袭击被无效化的时候，会出现只有自己可见的系统消息。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>当回避袭击时</dt>
+      <dd>
+        <p class="log skill">○○ 躲开了人狼的袭击。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>月下人狼的原创职业。</p>
+  </section>
+{/job_content}
+
+
+

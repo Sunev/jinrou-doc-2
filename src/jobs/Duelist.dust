@@ -1,0 +1,36 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[决斗者阵营]]的职业。</p>
+  <p>这是一个可以创建[[宿敌]]的职业。在第一夜选择一名参与者作为自己的宿敌。一旦指定，对方立即成为宿敌，并且对方会得到通知。</p>
+  <p>没有阵营胜利，这是一场个人战。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>在[[胜利判定]]时，如果自己生存且宿敌目标已经死亡，则与胜利阵营一同获胜。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>选择对象时</dt>
+      <dd>
+        <p class="log skill">○○ 向 ○○ 发起了决斗邀请。</p>
+      </dd>
+      <dt>当宿敌对手确定时</dt>
+      <dd>
+        <p class="log skill">○○ 与 ○○ 开始决斗了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[无赖]]</li>
+      <li>[[乌鸦]]</li>
+      <li>[[宿敌]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>[[人狼式]]</p>
+  </section>
+{/job_content}

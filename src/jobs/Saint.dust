@@ -1,0 +1,30 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>可以识别其他[[共有者]]和[[圣子]]，并在能够在夜晚进行共有者的对话。</p>
+  <p>此外，在第四天夜晚，可以选择一人进行复活。复活成功率为100%，但仅限于第四天夜晚一次。</p>
+  <p>如果圣子在第四天夜晚死亡，则不会进行复活。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>模糊的低语声</dt>
+      <dd>
+        <p class="log couple">模糊的低语声：沙沙・・・</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[共有者]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>人狼物語（深海国）</p>
+  </section>
+{/job_content}

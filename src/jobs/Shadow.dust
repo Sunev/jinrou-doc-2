@@ -1,0 +1,35 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>在第一天晚上，随机知道一个人狼的名字。</p>
+  <p>只要自己生存，那个人狼的占卜结果会被判断为村人。作为交换，[[猎人]]的占卜结果会被判断为人狼。</p>
+  <p>人狼一方会知道谁被选中了。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>在选择人狼时</dt>
+      <dd>
+        <p class="log skill">○○ 剥去了 ○○ 的影子。</p>
+      </dd>
+      <dt>在选择人狼时（给人狼一方的通知）</dt>
+      <dd>
+        <p class="log skill">○○ 的影子被藏起来了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[猎人]]</li>
+      <li>[[狼少年]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>フェルト人狼</p>
+  </section>
+{/job_content}

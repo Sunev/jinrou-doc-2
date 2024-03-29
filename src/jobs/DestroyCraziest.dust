@@ -1,0 +1,37 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[狂人系]]的职业。每晚可以选择一个生存者，使那个夜晚对该人的护卫无效。</p>
+  <p>无法无效化[[圣职者]]・[[巫女]]・[[活祭品]]的能力。</p>
+  <p>也无法无效化像[[妖狐]]或[[硬汉]]这样的袭击耐性。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>选择对象时</dt>
+      <dd>
+        <p class="log skill">○○ 向 ○○ 释放了破坏的诅咒。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[猎人]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>Crimson Wolves～真紅の狼～ by Chrom.</p>
+  </section>
+  <section class="nit">
+    <h2>详细说明</h2>
+    <ul>
+      <li>如果[[陷阱师]]或[[武士]]护卫了相同的人，并且该护卫被无效化，不会有杀伤效果，人狼与武士不会死亡。</li>
+      <li>如果陷阱师和其他护卫系职业目标重叠，那么那个护卫系职业的人将会死亡。</li>
+    </ul>
+  </section>
+{/job_content}
