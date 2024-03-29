@@ -37,7 +37,7 @@
     <dl class="logs">
       <dt>袭击失败的原因</dt>
       <dd>
-        <p class="log skill">向 ○○ 发起的袭击，○○（失败理由）。</p>
+        <p class="log skill">向 ○○（袭击对象） 发起的袭击，○○（失败理由）。</p>
       </dd>
     </dl>
   </section>

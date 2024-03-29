@@ -5,7 +5,7 @@
 
   <p>如果存在多个吸血鬼，他们可以相互识别，但无法在夜晚交谈。此外，每个吸血鬼每夜可以袭击一个人。</p>
   <p>无法与[[德古拉]]互相识别。</p>
-  <p>与[[人狼系]]的袭击不同，除了{#dynamic.vampireToleranceJobs}[[{.name}]]{@sep}・{/sep}{/dynamic.vampireToleranceJobs}之外，可以杀死所有职业。特别是，也可以通过袭击使[[吸血鬼]]死亡。</p>
+  <p>与[[人狼系]]的袭击不同，除了{#dynamic.vampireToleranceJobs}[[{.name}]]{@sep}・{/sep}{/dynamic.vampireToleranceJobs}之外，可以杀死所有职业。特别的，也可以通过袭击使[[吸血鬼]]死亡。</p>
 
   <section>
     <h2>胜利条件</h2>
