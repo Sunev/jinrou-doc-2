@@ -1629,6 +1629,24 @@ jobs:
       judge: "人"
       select: "任意"
       source: "人狼 ジャッジメント"
+  Teruteru:
+      name: "晴天娃娃"
+      team: "其他"
+      type: "第三阵营系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "人狼 ジャッジメント"
+  HearMadman:
+      name: "听狂人"
+      team: "人狼阵营"
+      type: "狂人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "るる鯖"
 
 # 陣営の定義
 teams:
