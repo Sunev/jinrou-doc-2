@@ -1711,6 +1711,44 @@ jobs:
       vampireGuard: true
       source: "希望ヶ峰学園心理学科"
 
+  HimeFox:
+      name: "姬狐"
+      team: "妖狐阵营"
+      type: "妖狐系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "狐"
+      select: "任意"
+      wolfTolerance: true
+      source: "原创"
+  Perfidious:
+      name: "背信者"
+      team: "妖狐阵营"
+      type: "背德者系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "人狼 ジャッジメント"
+  Heretic:
+      name: "异端者"
+      team: "妖狐阵营"
+      type: "背德者系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "人狼 ジャッジメント"
+  MindPsychic:
+      name: "念缚灵能者"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "任意"
+      source: "原创"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"

@@ -1,0 +1,50 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>本项目的原创职业，由玩家「七夜」推送。</p>
+  <p>[[妖狐]]与[[背德者]]结合而成的职业。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>每晚先选择一名[[背信者]]或[[异端者]]献祭，再选择一名玩家发动念杀。念杀成功后献祭对象也会死亡。</p>
+    <p>念杀会被[[念缚灵能者]]守护，也会被[[猫又]]反噬。被占卜时姬狐会被[[咒杀|死因一览]]。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[妖狐阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>选择献祭对象时</dt>
+      <dd>
+        <p class="log skill">○○ 选择将 ○○ 作为献祭对象。</p>
+      </dd>
+      <dt>发动念杀时</dt>
+      <dd>
+        <p class="log skill">○○ 献祭 ○○，对 ○○ 发动了念杀。</p>
+      </dd>
+      <dt>念杀被护卫阻挡时</dt>
+      <dd>
+        <p class="log skill">昨晚念杀失败，被念杀护卫阻挡了。</p>
+      </dd>
+      <dt>念杀被猫又反噬时</dt>
+      <dd>
+        <p class="log skill">猫又的力量反噬了念杀。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[妖狐]]</li>
+      <li>[[背信者]]</li>
+      <li>[[异端者]]</li>
+      <li>[[念缚灵能者]]</li>
+      <li>[[猫又]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>原创</p>
+  </section>
+{/job_content}
