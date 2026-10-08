@@ -1,0 +1,28 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[月夜の人狼]]中存在的职业。拥有两个头的[[人狼]]。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>基本和普通[[人狼]]一样，但在胜负判定中，双头狼会被计算为2只人狼。</p>
+    <p>占卜・灵能结果将会显示为「双头狼」。</p>
+  </section>
+  {>"$PROJ/templates/common/Werewolf.dust"/}
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[大狼]]</li>
+      <li>[[硬汉人狼]]</li>
+      <li>[[绝地人狼]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>[[月夜の人狼]]</p>
+  </section>
+{/job_content}

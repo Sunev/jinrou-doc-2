@@ -1845,6 +1845,16 @@ jobs:
       select: null
       source: "人狼 ジャッジメント"
 
+  DoubleHeadedWolf:
+      name: "双头狼"
+      team: "人狼阵营"
+      type: "人狼系"
+      fortune: "双头狼"
+      psychic: "双头狼"
+      judge: "狼"
+      select: "强制"
+      source: "月夜の人狼"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
