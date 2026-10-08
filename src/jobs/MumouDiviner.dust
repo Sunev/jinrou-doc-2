@@ -1,0 +1,25 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[月夜の人狼]]中存在的职业。缺乏计策与谋略的占卜师，无法受到守护。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>基本与[[占卜师]]一致，但当被[[猎人]]系守护时，守护将会无效化。</p>
+    <p>没有选择占卜对象的情况下则会猝死，这一点请务必注意。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[占卜师]]</li>
+      <li>[[SP占卜师]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>[[月夜の人狼]]</p>
+  </section>
+{/job_content}

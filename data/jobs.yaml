@@ -1784,6 +1784,16 @@ jobs:
       vampireGuard: true
       source: "原创"
 
+  MumouDiviner:
+      name: "无谋的占卜师"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "强制"
+      source: "月夜の人狼"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
