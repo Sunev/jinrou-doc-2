@@ -1804,6 +1804,16 @@ jobs:
       select: null
       source: "人狼 ジャッジメント"
 
+  LastStandWolf:
+      name: "绝地人狼"
+      team: "人狼阵营"
+      type: "人狼系"
+      fortune: "人狼"
+      psychic: "人狼"
+      judge: "狼"
+      select: "强制"
+      source: "原创"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
