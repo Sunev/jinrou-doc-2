@@ -1,0 +1,41 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>又称超占卜师。「希望ヶ峰学園心理学科」系列中的职业。</p>
+  <p>夜晚选择一个人占卜他的身份。可以判断占卜对象的身份是村人还是人狼。[[妖狐]]被占卜的时候妖狐会被[[咒杀|死因一览]]。</p>
+  <p>同时在夜晚仅限一次，可以额外占卜一次（不影响猝死）。</p>
+  <p>没有选择占卜对象的情况下则会猝死，这一点请务必注意。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>选择占卜对象时</dt>
+      <dd>
+        <p class="log skill">○○ 占卜了 ○○ 的身份。</p>
+      </dd>
+      <dt>追加占卜时</dt>
+      <dd>
+        <p class="log skill">○○ 额外占卜了 ○○ 的身份。</p>
+      </dd>
+      <dt>占卜结果</dt>
+      <dd>
+        <p class="log skill">○○ 占卜了 ○○ 的身份，他是 ○○。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[占卜师]]</li>
+      <li>[[见习占卜师]]</li>
+      <li>[[人狼占卜师]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>希望ヶ峰学園心理学科</p>
+  </section>
+{/job_content}
