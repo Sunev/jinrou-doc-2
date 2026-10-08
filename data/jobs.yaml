@@ -1760,6 +1760,18 @@ jobs:
       wolfTolerance: true
       source: "希望ヶ峰学園心理学科"
 
+  Paladin:
+      name: "圣骑士"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "强制"
+      wolfGuard: true
+      vampireGuard: true
+      source: "原创"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
