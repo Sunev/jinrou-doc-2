@@ -1,0 +1,26 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[人狼 ジャッジメント]]中登场的角色。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>没有特殊的能力。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>被袭击而死，则在游戏终了时跟随胜利。</p>
+    <p>如果因为不投票导致猝死将直接败北。</p>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[晴天娃娃]]</li>
+      <li>[[地缚灵]]</li>
+      <li>[[皮革匠]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>[[人狼 ジャッジメント]]</p>
+  </section>
+{/job_content}
