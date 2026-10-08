@@ -1749,6 +1749,17 @@ jobs:
       select: "任意"
       source: "原创"
 
+  SuperFox:
+      name: "SP妖狐"
+      team: "妖狐阵营"
+      type: "妖狐系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "狐"
+      select: null
+      wolfTolerance: true
+      source: "希望ヶ峰学園心理学科"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
