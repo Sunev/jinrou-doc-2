@@ -1814,6 +1814,16 @@ jobs:
       select: "强制"
       source: "原创"
 
+  Hero:
+      name: "英雄"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "ねじれ天国"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"

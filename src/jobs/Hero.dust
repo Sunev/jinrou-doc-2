@@ -1,0 +1,41 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>基于「ねじれ天国」的同名职业修改而来的职业。拥有觉醒机制，初始名称显示为村人。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>进入白天或夜晚时，如果场上存活玩家数小于等于总人数的三分之一（向上取整），则会觉醒。</p>
+    <p>觉醒后获得[[占卜师]]、[[灵能者]]、[[猎人]]三种能力。</p>
+    <p>同时无论觉醒与否，拥有1次抵抗[[人狼]]、[[吸血鬼]]或[[九尾狐]]袭击的能力。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>觉醒时</dt>
+      <dd>
+        <p class="log skill">○○ 觉醒为英雄了。</p>
+      </dd>
+      <dt>抵抗袭击时</dt>
+      <dd>
+        <p class="log skill">○○ 抵抗了袭击，察觉到自身为英雄。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[村人]]</li>
+      <li>[[占卜师]]</li>
+      <li>[[灵能者]]</li>
+      <li>[[猎人]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>ねじれ天国</p>
+  </section>
+{/job_content}
