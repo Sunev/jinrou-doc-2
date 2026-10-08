@@ -1,0 +1,34 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>为对应SP占卜师和SP猎人而设计的[[人狼系]]职业。可以同时袭击多人。</p>
+  <p>基本与[[人狼]]相同。</p>
+  <p>游戏中<strong>只限1次</strong>，可以在一夜之间多袭击一个人。</p>
+  <p>与[[贪婪的狼]]不同，即使袭击失败也不会导致自身死亡。</p>
+  <p>如果有多名SP人狼同时发动能力，袭击人数可能达到3人或以上。</p>
+  {>"$PROJ/templates/common/Werewolf.dust"/}
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>发动能力时（[[人狼系]]将看到）</dt>
+      <dd>
+        <p class="log skill">人狼 ○○ 发动了SP能力。人狼们今晚可以多袭击一个人。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[贪婪的狼]]</li>
+      <li>[[硬汉人狼]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>希望ヶ峰学園心理学科</p>
+  </section>
+{/job_content}
