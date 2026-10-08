@@ -1699,6 +1699,18 @@ jobs:
       wolfTolerance: true
       source: "原创"
 
+  SuperGuard:
+      name: "SP猎人"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "强制"
+      wolfGuard: true
+      vampireGuard: true
+      source: "希望ヶ峰学園心理学科"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"

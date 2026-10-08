@@ -1,0 +1,41 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>又称超猎人。「希望ヶ峰学園心理学科」系列中的职业。</p>
+  <p>夜间可以选择一人，使其免受[[人狼系]]与[[吸血鬼]]的袭击。但是第一天夜里不能守护。</p>
+  <p>同时在夜晚仅限一次，可以额外守护一次（不影响猝死）。</p>
+  <p>没有选择对象的情况下则会猝死，这一点请务必注意。</p>
+
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>选择护卫对象时</dt>
+      <dd>
+        <p class="log skill">○○ 守护了 ○○。</p>
+      </dd>
+      <dt>追加护卫时</dt>
+      <dd>
+        <p class="log skill">○○ 额外守护了 ○○。</p>
+      </dd>
+      <dt>护卫成功时（仅在设定中设为有效时显示）</dt>
+      <dd>
+        <p class="log skill">○○ 成功守护了 ○○。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[猎人]]</li>
+      <li>[[游荡猎人]]</li>
+      <li>[[陷阱师]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>希望ヶ峰学園心理学科</p>
+  </section>
+{/job_content}
