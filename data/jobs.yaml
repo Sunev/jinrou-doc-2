@@ -1835,6 +1835,16 @@ jobs:
       wolfTolerance: true
       source: "原创"
 
+  Elder:
+      name: "长老"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "人狼 ジャッジメント"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"

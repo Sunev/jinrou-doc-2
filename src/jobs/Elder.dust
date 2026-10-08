@@ -1,0 +1,36 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>[[人狼 ジャッジメント]]中登场的职业。[[村人阵营]]的长者。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>受到[[人狼]]、[[吸血鬼]]或[[九尾狐]]的袭击时，第一次不会死亡。</p>
+    <p>袭击被抵抗时，袭击者会得知被袭击者是长老。但长老本人不会得知。</p>
+    <p>第二次受到这些袭击时仍会死亡。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[村人阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>抵抗袭击时（袭击者将看到）</dt>
+      <dd>
+        <p class="log skill">被袭击的 ○○ 是长老。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[硬汉]]</li>
+      <li>[[被诅咒者]]</li>
+      <li>[[九尾狐]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>[[人狼 ジャッジメント]]</p>
+  </section>
+{/job_content}
