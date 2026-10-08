@@ -1668,6 +1668,16 @@ jobs:
       select: "强制"
       source: "希望ヶ峰学園心理学科"
 
+  MadDictator:
+      name: "恶裁者"
+      team: "人狼阵营"
+      type: "狂人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "うそつき人狼"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
