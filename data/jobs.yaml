@@ -1794,6 +1794,16 @@ jobs:
       select: "强制"
       source: "月夜の人狼"
 
+  MagicalGirl:
+      name: "魔法少女"
+      team: "村人阵营"
+      type: "村人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: null
+      source: "人狼 ジャッジメント"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
