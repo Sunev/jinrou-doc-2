@@ -1812,7 +1812,7 @@ jobs:
       psychic: "人狼"
       judge: "狼"
       select: "强制"
-      source: "原创"
+      source: "人狼 ジャッジメント"
 
   Hero:
       name: "英雄"
