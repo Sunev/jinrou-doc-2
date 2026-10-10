@@ -1676,7 +1676,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: null
-      source: "うそつき人狼"
+      source: "原创"
 
   SuperDiviner:
       name: "SP占卜师"
