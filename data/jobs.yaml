@@ -1875,6 +1875,16 @@ jobs:
       select: null
       source: "人狼 ジャッジメント"
 
+  LandmineGirl:
+      name: "地雷少女"
+      team: "人狼阵营"
+      type: "狂人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "任意"
+      source: "原创/ダンジョン人狼"
+
 # 陣営の定義
 teams:
   Human: "村人阵营"
