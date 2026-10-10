@@ -1697,7 +1697,7 @@ jobs:
       judge: "狐"
       select: "任意"
       wolfTolerance: true
-      source: "原创"
+      source: "人狼 ジャッジメント"
 
   SuperGuard:
       name: "SP猎人"
