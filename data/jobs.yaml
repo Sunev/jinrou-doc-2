@@ -1666,7 +1666,7 @@ jobs:
       psychic: "人狼"
       judge: "狼"
       select: "强制"
-      source: "希望ヶ峰学園心理学科"
+      source: "原创/人狼 ジャッジメント"
 
   MadDictator:
       name: "恶裁者"
