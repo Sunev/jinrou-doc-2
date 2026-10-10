@@ -1822,7 +1822,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: null
-      source: "ねじれ天国"
+      source: "原创/ねじれ天国"
 
   FoxMatchmaker:
       name: "狐妖小红娘"
