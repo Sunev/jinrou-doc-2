@@ -1,0 +1,49 @@
+{>"$PROJ/templates/job.dust"/}
+{<job_content}
+  <p>灵感来源于「ダンジョン人狼」中同名职业的原创职业。</p>
+  <p>[[狂人系]]的职业。病态的爱上某个人狼后的地雷女孩。</p>
+
+  <section>
+    <h2>特殊能力</h2>
+    <p>第一天夜里你会随机得知一名人狼是谁。</p>
+    <p>在该人狼死亡后的下一夜开始，你可以<strong>仅限1次</strong>袭击一名生存者。</p>
+    <p>袭击会被通常的护卫阻止，也无法击杀本身拥有袭击耐性的[[妖狐]]。</p>
+    <p>袭击[[埋毒者]]或[[猫又]]时将会被连坐。</p>
+    <p>袭击[[人狼系]]或[[吸血鬼]]时将不产生效果且死于其的袭击。</p>
+  </section>
+  <section>
+    <h2>胜利条件</h2>
+    <p>[[人狼阵营]]的胜利。</p>
+  </section>
+  <section>
+    <h2>系统消息</h2>
+    <dl class="logs">
+      <dt>得知人狼时</dt>
+      <dd>
+        <p class="log skill">○○ 得知 ○○ 是人狼。</p>
+      </dd>
+    </dl>
+    <dl class="logs">
+      <dt>发动袭击时</dt>
+      <dd>
+        <p class="log skill">○○ 袭击了 ○○。</p>
+      </dd>
+    </dl>
+    <dl class="logs">
+      <dt>袭击人狼系或吸血鬼时</dt>
+      <dd>
+        <p class="log skill">○○ 袭击 ○○ 时被反杀了。</p>
+      </dd>
+    </dl>
+  </section>
+  <section>
+    <h2>关联项目</h2>
+    <ul>
+      <li>[[人狼]]</li>
+    </ul>
+  </section>
+  <section>
+    <h2>出处</h2>
+    <p>原创/ダンジョン人狼</p>
+  </section>
+{/job_content}

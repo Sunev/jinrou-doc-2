@@ -1,6 +1,6 @@
 {>"$PROJ/templates/job.dust"/}
 {<job_content}
-  <p>本项目的原创职业，由玩家「七夜」推送。</p>
+  <p>[[人狼 ジャッジメント]]中存在的职业。</p>
   <p>[[人狼系]]职业。陷入绝地时可以发动必死袭击。</p>
 
   <section>
@@ -33,6 +33,6 @@
   </section>
   <section>
     <h2>出处</h2>
-    <p>原创</p>
+    <p>[[人狼 ジャッジメント]]</p>
   </section>
 {/job_content}

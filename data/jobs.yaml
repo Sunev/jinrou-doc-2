@@ -1666,7 +1666,7 @@ jobs:
       psychic: "人狼"
       judge: "狼"
       select: "强制"
-      source: "希望ヶ峰学園心理学科"
+      source: "原创/人狼 ジャッジメント"
 
   MadDictator:
       name: "恶裁者"
@@ -1676,7 +1676,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: null
-      source: "うそつき人狼"
+      source: "原创"
 
   SuperDiviner:
       name: "SP占卜师"
@@ -1697,7 +1697,7 @@ jobs:
       judge: "狐"
       select: "任意"
       wolfTolerance: true
-      source: "原创"
+      source: "人狼 ジャッジメント"
 
   SuperGuard:
       name: "SP猎人"
@@ -1720,7 +1720,7 @@ jobs:
       judge: "狐"
       select: "任意"
       wolfTolerance: true
-      source: "原创"
+      source: "フェルト人狼"
   Perfidious:
       name: "背信者"
       team: "妖狐阵营"
@@ -1738,7 +1738,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: null
-      source: "人狼 ジャッジメント"
+      source: "人狼 ジャッジメント/ねじれ天国"
   MindPsychic:
       name: "念缚灵能者"
       team: "村人阵营"
@@ -1747,7 +1747,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: "任意"
-      source: "原创"
+      source: "人狼倶楽部/フェルト人狼"
 
   SuperFox:
       name: "SP妖狐"
@@ -1758,7 +1758,7 @@ jobs:
       judge: "狐"
       select: null
       wolfTolerance: true
-      source: "希望ヶ峰学園心理学科"
+      source: "原创"
 
   Paladin:
       name: "圣骑士"
@@ -1770,7 +1770,7 @@ jobs:
       select: "强制"
       wolfGuard: true
       vampireGuard: true
-      source: "原创"
+      source: "其他"
 
   OldGuard:
       name: "老骑士"
@@ -1812,7 +1812,7 @@ jobs:
       psychic: "人狼"
       judge: "狼"
       select: "强制"
-      source: "原创"
+      source: "人狼 ジャッジメント"
 
   Hero:
       name: "英雄"
@@ -1822,7 +1822,7 @@ jobs:
       psychic: "村人"
       judge: "人"
       select: null
-      source: "ねじれ天国"
+      source: "原创/ねじれ天国"
 
   FoxMatchmaker:
       name: "狐妖小红娘"
@@ -1874,6 +1874,16 @@ jobs:
       judge: "人"
       select: null
       source: "人狼 ジャッジメント"
+
+  LandmineGirl:
+      name: "地雷少女"
+      team: "人狼阵营"
+      type: "狂人系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "任意"
+      source: "原创/ダンジョン人狼"
 
 # 陣営の定義
 teams:
