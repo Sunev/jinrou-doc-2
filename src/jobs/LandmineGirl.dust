@@ -24,9 +24,15 @@
       </dd>
     </dl>
     <dl class="logs">
+      <dt>已经可以发动袭击时</dt>
+      <dd>
+        <p class="log skill">地雷少女 ○○ 已经可以发动袭击。</p>
+      </dd>
+    </dl>
+    <dl class="logs">
       <dt>发动袭击时</dt>
       <dd>
-        <p class="log skill">○○ 袭击了 ○○。</p>
+        <p class="log skill">○○ 由于想要被爱，袭击了 ○○。</p>
       </dd>
     </dl>
     <dl class="logs">
