@@ -1770,7 +1770,7 @@ jobs:
       select: "强制"
       wolfGuard: true
       vampireGuard: true
-      source: "原创"
+      source: "其他"
 
   OldGuard:
       name: "老骑士"
