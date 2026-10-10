@@ -1758,7 +1758,7 @@ jobs:
       judge: "狐"
       select: null
       wolfTolerance: true
-      source: "希望ヶ峰学園心理学科"
+      source: "原创"
 
   Paladin:
       name: "圣骑士"
