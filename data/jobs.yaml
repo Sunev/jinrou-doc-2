@@ -1026,6 +1026,15 @@ jobs:
       judge: "人"
       select: "强制"
       source: "其他"
+  DoomsdayYandere:
+      name: "终末病娇"
+      team: "恋人阵营"
+      type: "第三阵营系"
+      fortune: "村人"
+      psychic: "村人"
+      judge: "人"
+      select: "强制"
+      source: "其他"
   Hooligan:
       name: "暴徒"
       team: "暴徒阵营"
